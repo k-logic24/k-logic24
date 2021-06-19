@@ -1,5 +1,4 @@
 # My Profile
-[![](https://raw.githubusercontent.com/k-logic24/k-logic24/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/k-logic24/k-logic24/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ## Skills
 [![](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)](https://github.com/k-logic24)
